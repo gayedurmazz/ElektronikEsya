@@ -23,7 +23,7 @@ public abstract class ElektronikEsya {
     }
 
     public void TusaBasCihazAc (){
-        System.out.println("Tuşa basıldı ve cihaz açıldı");
+        System.out.println("Tuşa basıldı ve cihaz açıldı.");
     }
 
     public void TusaBasCihazKapa(){

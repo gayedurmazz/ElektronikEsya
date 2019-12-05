@@ -3,7 +3,7 @@ package com.uniyaz;
 public enum enumMalzeme {
     Plastik,
     Metal,
-    Alüminyum,
+    Aluminyum,
     Karbonfiber,
     Diger
 }

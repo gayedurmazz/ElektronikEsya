@@ -7,5 +7,6 @@ public enum enumMarka {
     Beko,
     Bosch,
     Profilo,
+    Xaomi,
     Diger
 }

@@ -4,5 +4,6 @@ public enum enumMalzeme {
     Plastik,
     Metal,
     Alüminyum,
+    Karbonfiber,
     Diger
 }
